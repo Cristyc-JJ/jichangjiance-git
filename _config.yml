@@ -1,0 +1,17 @@
+title: 机场检测观察
+description: 2026机场推荐、稳定机场排行、线路与客户端选择指南
+url: https://cristyc-jj.github.io
+baseurl: /jichangjiance-git
+lang: zh-CN
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md
